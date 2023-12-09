@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalnia&family=Rubik+Bubbles&display=swap');
+
+
+
+body{
+    background-image: url("./icone/Design\ sem\ nome.png");
+    background-repeat: no-repeat;
+    background-position: -200px;
+    object-fit: cover;
+    background-attachment: fixed ;
+   
+
+
+}
+
+
+
+
+.background{
+    
+    
+    background-repeat: no-repeat;
+
+    
+
+}
+#barra_p{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px;
+    background-color: #1b183300;
+
+
+}
+.logo{
+    max-width: 100px;
+    padding: 5px 5px;
+    
+}
+.menu{
+    display: flex;
+    gap:10px;
+    list-style: none;
+    
+}
+.menu:houver {
+
+}
+.menu a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.eslogam{
+    color: white;
+    font-family: 'Kalnia', serif;
+    font-size: 30px;
+}
+.img{
+   display: flex;
+   justify-content: center;
+   
+}
+.img img{
+    border-radius: 30px;
+    
+}
+
+
+
+.PEDIDOS{
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    font-family: Rubik Bubbles ;
+}
+.C1{
+    background-image: url("https://img.freepik.com/fotos-gratis/fundo-preto-antigo-textura-do-grunge-papel-de-parede-escuro-quadro-negro-quadro-negro-parede-da-sala_1258-28313.jpg");
+    width: 500px;
+    background-repeat: no-repeat;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 10px;
+    color: white;
+    align-items: center;
+    font-family: Kalnia;
+}
+.C1 ul{
+    margin-bottom: 100px;
+}
+.C1 a{
+
+
+}
+.pedidos{
+    display: flex;
+
+    
+}
+.C1 img{
+    width: 300px;
+    height: 200px;
+    display: flex;
+    
+}
